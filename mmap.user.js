@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         MapMagic Anti-paywall
 // @version      1.0.0
+// @author       waseeen
 // @match        https://mapmagic.app/*
 // @run-at       document-start
 // @grant        none
 // @description  Subscription activation
+// @source       https://github.com/waseeen/MapMagicAntiPaywall/raw/master/mmap.user.js
 // ==/UserScript==
 
 (() => {
